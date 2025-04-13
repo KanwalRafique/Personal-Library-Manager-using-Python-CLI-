@@ -31,7 +31,8 @@ git clone https://github.com/YOUR_USERNAME/book-collection-manager.git
 cd book-collection-manager
 Run the app:
 
-python book_manager.py
+python personal_library_manager.py
+
 📚 Welcome to Your Book Collection Manager! 📚
 1. ➕ Add a new book
 2. 🗑️ Remove a book
