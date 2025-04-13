@@ -28,7 +28,9 @@ All book data is saved in a `books_data.json` file in the same directory. When t
 2. Clone the repository:
 
 git clone https: [] (https://github.com/KanwalRafique/Personal-Library-Manager-using-Python-CLI-.git)
-Run the app:   
+
+Run the app: 
+
 python personal_library_manager.py
 
 📚 Welcome to Your Book Collection Manager! 📚
